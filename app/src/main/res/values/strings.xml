@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Asteroids</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="identification">Identification</string>
+    <string name="Login">Log In</string>
+    <string name="Logout">Log Out</string>
+    <string name="Signin">Sign In</string>
+    <string name="download">Download the Asteroids</string>
+    <string name="asteroid">Asteroid</string>
+    <string name="asteroids">Asteroids</string>
+    <string name="name">Name</string>
+    <string name="neo_reference">Neo Reference</string>
+    <string name="abs_magnitude">Absolute Magnitude</string>
+    <string name="est_diameter">Estimated Diameter</string>
+    <string name="pot_dangerous">Potentially Dangerous</string>
+    <string name="is_sentry">Sentry Object</string>
+    <string name="close_approach">Close Approach</string>
+    <string name="km">Kilometers</string>
+    <string name="km_ps">Kilometers/Second</string>
+    <string name="km_ph">Kilometers/Hour</string>
+    <string name="mt">Meters</string>
+    <string name="ml">Miles</string>
+    <string name="ml_ph">Miles/Hour</string>
+    <string name="ft">Feet</string>
+    <string name="astronomical">Astronomical</string>
+    <string name="lunar">Lunar</string>
+    <string name="orbiting_body">Orbiting Body</string>
+
+</resources>
