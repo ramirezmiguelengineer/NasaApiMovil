@@ -38,6 +38,8 @@ public class ListActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         if (v.getId() == R.id.closeS){
             closeSession();
+
+
         }
         if (v.getId() == R.id.downloadB){
             AsteroidController asteroidController = new AsteroidController();
